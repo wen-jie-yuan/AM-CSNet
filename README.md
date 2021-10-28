@@ -3,7 +3,7 @@ This project is the source code of the thesis AM-CSNet.
 title：Image Compressed Sensing Reconstruction Algorithm Based on Attention Mechanism
 ## results show：
 
-![result](draw_picture/fig1.PNG)
+![result](draw_picture/fig1.png)
 
 You can download the train and test dataset from [baidu disk passward：2uvs](https://pan.baidu.com/s/1ooh9He3cZX2xHwTjr6-1Vg)  
 Then put data into dataset.
